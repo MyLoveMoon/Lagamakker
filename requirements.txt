@@ -1,4 +1,14 @@
-pyrogram
-TgCrypto
-aiohttp
+# Groot_Network
+# RJbr0
+telethon
+cryptg
+asyncio
+telegraph
+requests
+async-lru
+pyaes
+Tgcrypto
+pyrogram==1.4.15
+PySocks
 python-dotenv
+aiohttp
