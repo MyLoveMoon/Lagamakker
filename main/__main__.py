@@ -1,5 +1,6 @@
 from main import app
 import pyrogram
+from config import
 from pyrogram import filters, idle
 from pyrogram.errors import FloodWait
 from pyrogram.types import (
